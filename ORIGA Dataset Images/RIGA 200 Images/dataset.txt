@@ -1,0 +1,2 @@
+Data set has 100 png retinal fungus images as test data along with 100 tif images as their respective grounf truth images.
+The images are numbered 1 to 100 for both png and tif images.
